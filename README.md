@@ -1,5 +1,6 @@
 # pianocurve
 準備中
+CLIENT_ID　がしゅとくできるまで。
 soundcloud.com より BGMをストリーミング再生
 
 pianocurve > piano_bgm.mp3 
